@@ -1,4 +1,4 @@
-#  MIT8102 Assignment #1
+#  MIT8102 Assignment 
 # Vegetable Service Engine – RMI Implementation
 # ================================================
 
