@@ -168,3 +168,7 @@
 <img width="597" height="779" alt="image" src="https://github.com/user-attachments/assets/065de1aa-23f0-4f1b-9d80-3a407e536748" />
 
 
+Kindly find the mobile app(client side), done by team-mate in this repo: https://github.com/AntoneyNyaga/vegetableclient
+
+
+
